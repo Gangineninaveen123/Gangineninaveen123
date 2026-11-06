@@ -1,4 +1,4 @@
-![Banner](linkedin_banner_naveen.png)
+![Banner](banner.png)
 
 # 👋 Hi, I'm Naveen G
 
