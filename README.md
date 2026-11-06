@@ -64,6 +64,9 @@ Working on cloud and infrastructure engineering with a focus on CI/CD, infrastru
 ---
 
 ## 📊 GitHub Stats
+![Stats](./profile/stats.svg)
+
 ![Streak](https://streak-stats.demolab.com/?user=Gangineninaveen123&hide_border=true&background=1B3549&ring=FFC107&fire=FFC107&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFC107&sideLabels=FFC107&dates=0A84FF)
 
+![Top Languages](./profile/top-langs.svg)
 Thanks for visiting!
