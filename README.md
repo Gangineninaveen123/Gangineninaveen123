@@ -6,12 +6,12 @@
 
 🚀 DevSecOps • CI/CD • Cloud • Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([PASTE YOUR LINKEDIN LINK])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_LINK_HERE)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangineninaveen132@gmail.com)
 
 ---
 
-Software Developer with 3.5 years of experience, 3+ years in DevOps, working on cloud and infrastructure at Valtech. I work with [AREAS, e.g. CI/CD pipelines, containers, infrastructure as code].
+Software Developer with 3+ years of experience in DevOps, working on cloud and infrastructure at Valtech. I work with CI/CD pipelines, Terraform, Kubernetes, AWS, Docker and Ansible.
 
 ---
 
@@ -29,17 +29,17 @@ Software Developer with 3.5 years of experience, 3+ years in DevOps, working on 
 ---
 
 ## 🔧 What I Do
-- 🛠️ [Your work 1, e.g. provision infrastructure with Terraform on AWS]
-- 🚀 [Your work 2, e.g. build CI/CD pipelines]
-- 🐳 [Your work 3, e.g. containerize apps with Docker and run them on Kubernetes]
-- 🔐 [Your work 4, DevSecOps work]
-- 🤖 [Your work 5, e.g. automate tasks with Shell and Ansible]
+- 🛠️ Build and manage cloud infrastructure on AWS using Terraform
+- 🚀 Design and maintain CI/CD pipelines for automated build and deployment
+- 🐳 Containerize applications with Docker and run them on Kubernetes
+- 🔐 Apply DevSecOps practices to keep delivery secure
+- 🤖 Automate repetitive tasks using Shell scripting and Ansible
 
 ---
 
 ## 💼 Career Snapshot
-🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud &Infrastructure)* ([START DATE] – Present)
-[2-3 lines about what you did]
+🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud &Infrastructure)* (START_DATE – Present)
+Working on cloud and infrastructure engineering with a focus on CI/CD, infrastructure as code and DevSecOps.
 
 🎓 **IIIT Ongole** – *B.Tech, Mechanical Engineering* (2022)
 
