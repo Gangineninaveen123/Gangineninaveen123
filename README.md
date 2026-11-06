@@ -1,16 +1,56 @@
-## Hi there 👋
+![Banner](linkedin_banner_naveen.png)
 
-<!--
-**Gangineninaveen123/Gangineninaveen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Naveen G
 
-Here are some ideas to get you started:
+### Software Developer (Engineering – Cloud &Infrastructure) at Valtech | Bangalore, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 DevSecOps • CI/CD • Cloud • Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([PASTE YOUR LINKEDIN LINK])
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangineninaveen132@gmail.com)
+
+---
+
+Software Developer with 3.5 years of experience, 3+ years in DevOps, working on cloud and infrastructure at Valtech. I work with [AREAS, e.g. CI/CD pipelines, containers, infrastructure as code].
+
+---
+
+## 🧰 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔧 What I Do
+- 🛠️ [Your work 1, e.g. provision infrastructure with Terraform on AWS]
+- 🚀 [Your work 2, e.g. build CI/CD pipelines]
+- 🐳 [Your work 3, e.g. containerize apps with Docker and run them on Kubernetes]
+- 🔐 [Your work 4, DevSecOps work]
+- 🤖 [Your work 5, e.g. automate tasks with Shell and Ansible]
+
+---
+
+## 💼 Career Snapshot
+🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud &Infrastructure)* ([START DATE] – Present)
+[2-3 lines about what you did]
+
+🎓 **IIIT Ongole** – *B.Tech, Mechanical Engineering* (2022)
+
+---
+
+## 📂 Projects
+- **RoboShop**: multi-container app run with Docker Compose on a custom network
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Gangineninaveen123&show_icons=true&theme=radical)
+
+Thanks for visiting!
