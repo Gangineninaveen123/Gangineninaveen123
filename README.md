@@ -4,14 +4,14 @@
 
 ### Software Developer (Engineering – Cloud &Infrastructure) at Valtech | Bangalore, India
 
-🚀 DevSecOps • CI/CD • Cloud • Automation
+🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_LINK_HERE)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangineninaveen132@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-gangineni-7a5286222/)
+[![Email](https://img.shields.io/badge/Email-gangineninaveen132@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gangineninaveen132@gmail.com)
 
 ---
 
-Software Developer with 3+ years of experience in DevOps, working on cloud and infrastructure at Valtech. I work with CI/CD pipelines, Terraform, Kubernetes, AWS, Docker and Ansible.
+Software Developer with **3+ years of experience in DevOps**, working on cloud and infrastructure at Valtech. I work with **CI/CD pipelines, Terraform, Kubernetes, AWS, Docker and Ansible**.
 
 ---
 
@@ -38,7 +38,8 @@ Software Developer with 3+ years of experience in DevOps, working on cloud and i
 ---
 
 ## 💼 Career Snapshot
-🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud &Infrastructure)* (START_DATE – Present)
+🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud &Infrastructure)* (Aug 2023 – Present)
+
 Working on cloud and infrastructure engineering with a focus on CI/CD, infrastructure as code and DevSecOps.
 
 🎓 **IIIT Ongole** – *B.Tech, Mechanical Engineering* (2022)
