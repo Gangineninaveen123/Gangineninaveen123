@@ -50,7 +50,7 @@ Software Developer with **3+ years of experience in DevOps**, working on cloud a
 ---
 
 ## 💼 Career Snapshot
-🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud &Infrastructure)* (Aug 2023 – Present)
+🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud & Infrastructure)* (Aug 2023 – Present)
 
 Working on cloud and infrastructure engineering with a focus on CI/CD, infrastructure as code and DevSecOps.
 
