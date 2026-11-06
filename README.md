@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Naveen G
 
-### Software Developer (Engineering – Cloud &Infrastructure) at Valtech | Bangalore, India
+### Software Developer (Engineering – Cloud & Infrastructure) at Valtech | Bangalore, India
 
 🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
 
