@@ -6,7 +6,7 @@
 
 🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-gangineni-7a5286222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-g-devops/)
 [![Email](https://img.shields.io/badge/Email-gangineninaveen132@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gangineninaveen132@gmail.com)
 
 ---
