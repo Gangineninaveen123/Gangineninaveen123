@@ -47,6 +47,7 @@ Software Developer with **3+ years of experience in DevOps**, working on cloud a
 - 🚀 Design and maintain Jenkins CI/CD pipelines for reliable, automated delivery
 - 🐳 Deploy containerized microservices on Kubernetes (Amazon EKS) using Docker and Helm
 - 🔵🟢 Implement Blue-Green deployments for zero-downtime releases with quick rollback
+- ☁️ Migrate on-premises Solaris servers to AWS RHEL 9 using Packer and Terraform with zero downtime
 - 📈 Build observability with Prometheus, Grafana, ELK Stack and CloudWatch for monitoring and logging
 - 🐧 Troubleshoot Linux (RHEL) servers and AWS networking (DNS, load balancers, security groups)
 - 🎫 Handle incidents and coordinate with cross-functional teams using ServiceNow and Jira
@@ -54,12 +55,13 @@ Software Developer with **3+ years of experience in DevOps**, working on cloud a
 ---
 
 ## 💼 Career Snapshot
-🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud & Infrastructure)* (May 2023 – Present)
+🏢 **Valtech, Bangalore** – *Associate Software Engineer (Engineering – Cloud & Infrastructure)* (May 2023 – Present)
 
 - Cut manual deployment effort by **70%** by automating infrastructure with Terraform and Ansible across 4 environments
 - Deployed microservices on Amazon EKS with Docker and Helm, using Blue-Green deployments for zero-downtime releases
 - Improved pipeline performance and deployment reliability by optimizing Jenkins build stages and artifact management
 - Reduced MTTR by **35%** with centralized monitoring and logging (Prometheus, Grafana, ELK, CloudWatch)
+- Migrated ~800 on-premises Solaris servers to AWS RHEL 9 with zero downtime, achieving **15 to 20%** cost optimization
 
 🎓 **IIIT Ongole** – *B.Tech, Mechanical Engineering* (2022) | CGPA 8.3 / 10
 
