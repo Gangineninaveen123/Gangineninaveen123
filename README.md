@@ -2,41 +2,43 @@
 
 # 👋 Hi, I'm Naveen G
 
-### Software Developer (Engineering – Cloud & Infrastructure) at Valtech | Bangalore, India
+### DevOps Engineer | Software Developer at Valtech (Engineering – Cloud & Infrastructure) | Bangalore, India
 
-🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
+🚀 AWS • Kubernetes • Terraform • Jenkins • CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-g-devops/)
 [![Email](https://img.shields.io/badge/Email-gangineninaveen132@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gangineninaveen132@gmail.com)
 
 ---
 
-Software Developer with **3+ years of experience in DevOps**, working on cloud and infrastructure at Valtech. I work with **CI/CD pipelines, Terraform, Kubernetes, AWS, Docker and Ansible**.
+Software Developer with **3+ years of experience in DevOps**, working on cloud and infrastructure at Valtech. I build and operate **CI/CD pipelines, Kubernetes (Amazon EKS) workloads and AWS infrastructure** using **Terraform, Ansible, Jenkins and Docker**.
 
 ---
 
 ## 🧰 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -44,6 +46,7 @@ Software Developer with **3+ years of experience in DevOps**, working on cloud a
 - 🛠️ Automate AWS infrastructure provisioning with Terraform and Ansible across dev, QA, pre-prod and prod environments
 - 🚀 Design and maintain Jenkins CI/CD pipelines for reliable, automated delivery
 - 🐳 Deploy containerized microservices on Kubernetes (Amazon EKS) using Docker and Helm
+- 🔵🟢 Implement Blue-Green deployments for zero-downtime releases with quick rollback
 - 📈 Build observability with Prometheus, Grafana, ELK Stack and CloudWatch for monitoring and logging
 - 🐧 Troubleshoot Linux (RHEL) servers and AWS networking (DNS, load balancers, security groups)
 - 🎫 Handle incidents and coordinate with cross-functional teams using ServiceNow and Jira
@@ -51,27 +54,21 @@ Software Developer with **3+ years of experience in DevOps**, working on cloud a
 ---
 
 ## 💼 Career Snapshot
-🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud & Infrastructure)* (Aug 2023 – Present)
+🏢 **Valtech, Bangalore** – *Associate Software Developer (Engineering – Cloud & Infrastructure)* (May 2023 – Present)
 
-- Cut manual deployment effort by **70%** by automating infrastructure with Terraform and Ansible
-- Reduced MTTR by **35%** with centralized monitoring and logging pipelines
-- Improved pipeline performance and deployment reliability by optimizing Jenkins build stages, artifact management and environment configs
+- Cut manual deployment effort by **70%** by automating infrastructure with Terraform and Ansible across 4 environments
+- Deployed microservices on Amazon EKS with Docker and Helm, using Blue-Green deployments for zero-downtime releases
+- Improved pipeline performance and deployment reliability by optimizing Jenkins build stages and artifact management
+- Reduced MTTR by **35%** with centralized monitoring and logging (Prometheus, Grafana, ELK, CloudWatch)
 
-🎓 **IIIT Ongole** – *B.Tech, Mechanical Engineering* (2022)
+🎓 **IIIT Ongole** – *B.Tech, Mechanical Engineering* (2022) | CGPA 8.3 / 10
 
 ---
 
-## 📂 Projects
+## 📂 Personal Projects
 
-### ☁️ Solaris to AWS Cloud Migration
-**Stack:** AWS (EC2, ASG, IAM, Security Groups), RHEL 9, Packer, Terraform, Java (Maven), Grafana
-- Migrated ~800 on-prem Solaris servers running a Java financial data application to AWS RHEL 9 in 3–4 months
-- Standardized golden AMIs with Packer (RHEL 9 base, JDK, monitoring agent)
-- Built reusable Terraform modules (AMI lookup, EC2/ASG, security groups, IAM roles)
-- Achieved **15–20% cost optimization** through right-sizing, Savings Plans, gp3 volumes and AMI/snapshot cleanup
-
-### 🛒 RoboShop (Personal Projects)
-- [**roboshop-docker**](https://github.com/Gangineninaveen123/roboshop-docker): multi-container app run with Docker Compose on a custom network
+### 🛒 RoboShop
+- [**roboshop-docker**](https://github.com/Gangineninaveen123/roboshop-docker): multi-container app run with Docker Compose on a custom bridge network, images pushed to Docker Hub
 - [**roboshop-infra-dev-terraform**](https://github.com/Gangineninaveen123/roboshop-infra-dev-terraform): Terraform code for dev infrastructure on AWS
 - [**ansible-roboshop-roles-tf**](https://github.com/Gangineninaveen123/ansible-roboshop-roles-tf): Ansible roles for RoboShop servers provisioned with Terraform
 
